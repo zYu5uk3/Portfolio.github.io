@@ -122,12 +122,6 @@ body {
 .intro {
   padding: 25px 0;
 }
-/* About Me */
-.btn btn-default btn-lg{
-  vertical-align: middle;
-  text-align: center;
-  display: table-cell;
-}
 
 /* Services */
 .services {
