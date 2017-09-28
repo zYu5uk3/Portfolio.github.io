@@ -126,6 +126,7 @@ body {
 .btn btn-default btn-lg{
   vertical-align: middle;
   text-align: center;
+  display: table-cell;
 }
 
 /* Services */
