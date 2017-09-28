@@ -7,7 +7,7 @@ body {
 }
 
 .vert-text {
-  display: table;
+  display: table-cell;
   vertical-align: middle;
   text-align: center;
 }
