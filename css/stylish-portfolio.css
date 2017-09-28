@@ -122,6 +122,11 @@ body {
 .intro {
   padding: 25px 0;
 }
+/* About Me */
+.center{
+  position: relative;
+  display: table;
+}
 
 /* Services */
 .services {
