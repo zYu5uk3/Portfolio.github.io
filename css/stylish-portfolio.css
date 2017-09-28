@@ -123,9 +123,8 @@ body {
   padding: 25px 0;
 }
 /* About Me */
-.glyphicon glyphicon-sort-by-attributes{
-  width: 20em;
-  height: 2em;
+.btn btn-default btn-lg{
+  vertical-align: middle;	
 }
 
 /* Services */
@@ -133,7 +132,6 @@ body {
   background: #7fbbda;
   padding: 50px 0;
   color: #ffffff;
-  content:"\e156";
 }
 
 .service-item {
