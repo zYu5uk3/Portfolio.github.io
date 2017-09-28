@@ -10,7 +10,6 @@ body {
   display: table;
   vertical-align: middle;
   text-align: center;
-  position: relative;
 }
 
 .vert-text h1 {
