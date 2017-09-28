@@ -124,7 +124,8 @@ body {
 }
 /* About Me */
 .btn btn-default btn-lg{
-  vertical-align: middle;	
+  vertical-align: middle;
+  text-align: center;
 }
 
 /* Services */
