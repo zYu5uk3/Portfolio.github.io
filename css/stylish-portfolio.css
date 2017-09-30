@@ -1,4 +1,4 @@
-/* Global Styles */
+
 
 html,
 body {
@@ -119,13 +119,13 @@ body {
 }
 
 /* Intro */
-
 .intro {
-  padding: 50px 0;
+  padding: 25px 0;
 }
+/* About Me */
+
 
 /* Services */
-
 .services {
   background: #7fbbda;
   padding: 50px 0;
@@ -187,12 +187,6 @@ i.service-icon {
 
 .call-to-action .btn {
   margin: 10px;
-}
-
-/* Map */
-
-.map {
-  height: 500px;
 }
 
 /* Footer */
